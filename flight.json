@@ -1,0 +1,62 @@
+[
+    {
+        "FLIGHT": {
+            "VFRI and VCLMB":
+            {
+                "WEIGHT":
+                {
+                    "18.000":
+                    {
+                        "V FRI FLAP 5": "116",
+                        "V FRI FLAP 10": "110",
+                        "V FRI FLAP 15": "107",
+                        "V CLIMB": "130"
+                    },
+                    
+                    "20.000":
+                    {
+                        "V FRI FLAP 5": "120",
+                        "V FRI FLAP 10": "112",
+                        "V FRI FLAP 15": "109",
+                        "V CLIMB": "131"
+                    },
+                    "22.000":
+                    {
+                        "V FRI FLAP 5": "126",
+                        "V FRI FLAP 10": "118",
+                        "V FRI FLAP 15": "115",
+                        "V CLIMB": "137"
+                    },
+                    "24.000":
+                    {
+                        "V FRI FLAP 5": "132",
+                        "V FRI FLAP 10": "123",
+                        "V FRI FLAP 15": "120",
+                        "V CLIMB": "143"
+                    },
+                    "26.000":
+                    {
+                        "V FRI FLAP 5": "137",
+                        "V FRI FLAP 10": "128",
+                        "V FRI FLAP 15": "125",
+                        "V CLIMB": "148"
+                    },
+                    "28.000":
+                    {
+                        "V FRI FLAP 5": "142",
+                        "V FRI FLAP 10": "1347",
+                        "V FRI FLAP 15": "130",
+                        "V CLIMB": "154"
+                    },
+                    "29.000":
+                    {
+                        "V FRI FLAP 5": "146",
+                        "V FRI FLAP 10": "137",
+                        "V FRI FLAP 15": "133",
+                        "V CLIMB": "158"
+                    },
+                }
+            }
+        }
+    }   
+]
